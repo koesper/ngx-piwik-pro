@@ -1,6 +1,6 @@
 {
-  "name": "piwik-pro-angular-tracking",
-  "version": "0.0.5",
+  "name": "@piwikpro/ngx-piwik-pro",
+  "version": "1.0.1-koesperized.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
